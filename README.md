@@ -39,14 +39,6 @@ After evaluating all models, the best-performing classifier achieved:
 
 ---
 
-## 🗂 Dataset
-
-Dataset used: **Spam Mail Dataset** from Kaggle.
-
-🔗 *https://www.kaggle.com/datasets/venky73/spam-mails-dataset*
-
----
-
 ## 🛠 Technologies & Libraries Used
 
 | Category | Tools / Libraries |
